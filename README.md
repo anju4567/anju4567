@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Anjali Tripathi
+- 👀 I’m interested in Data Science, Artificial Intelligence, Machine Learning, Python and Front-end Languages.
+- 🌱 I’m currently working as Corporate Trainer for AI, ML, Python and Foundational Programming. 
+- 💞️ I’m looking for some great oppurtunities to furnish my technical skills.  
+- 📫 Contact me via: tripathianjali331@gmail.com
